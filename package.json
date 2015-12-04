@@ -1,0 +1,22 @@
+{
+  "name": "typefixer",
+  "version": "0.1.0",
+  "title": "Typefixer",
+  "description": "Utility for transforming your Markdown files to use typographically correct punctuation",
+  "main": "index.js",
+  "bin": "./index.js",
+  "author": "Jonathan Persson <persson.jonathan@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanp/typefixer.git"
+  },
+  "keywords": [
+    "typography"
+  ],
+  "homepage": "https://github.com/jonathanp/typefixer",
+  "dependencies": {
+    "retext": "^1.0.0",
+    "retext-smartypants": "^1.0.0"
+  }
+}
