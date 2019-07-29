@@ -35,7 +35,7 @@ $ typefixer foo.md > fixed.md
 
 ## License
 
-MIT © [Jonathan Persson](https://github.com/jonathanp)
+MIT © [Jonathan Svenheden](https://github.com/svenheden)
 
 [npm-url]: https://npmjs.org/package/typefixer
 [npm-image]: https://badge.fury.io/js/typefixer.svg
